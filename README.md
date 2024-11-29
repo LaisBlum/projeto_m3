@@ -1,5 +1,7 @@
 # Implementação de Projeto Banco de Dados I
 
+### Bernardo Escobar, Gabriel Bortoloci e Laís Blum
+
 ### Vinculando banco de dados
 
 - No arquivo connection.js, mudar o campo password para a senha do root (MySQL) e database para o nome do schema
